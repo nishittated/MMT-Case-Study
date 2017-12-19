@@ -5,7 +5,7 @@ Thank you for your interest in our make my trip case study. The goal of this pro
 
 Download from here: https://github.com/nishittated/MMT-Case-Study
 
-# Developed By: Nishit Tated
+# Made By: Nishit Tated
 
 # Support or Contact
 * Instagram: https://www.instagram.com/nishit.tated/
