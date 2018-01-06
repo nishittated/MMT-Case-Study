@@ -7,7 +7,13 @@ Download from here: https://github.com/nishittated/MMT-Case-Study
 
 # Made By: Nishit Tated
 
-# Support or Contact
-* Instagram: https://www.instagram.com/nishit.tated/
-* Facebook : https://www.facebook.com/nishit.tated
+# Find this project useful? ❤️
+* Support it by clicking the ⭐️ button on the upper right of this page. ✌️
 
+# Support or Contact - Let's become friend
+* <a href="https://www.instagram.com/nishit.tated/">Instagram</a>
+* <a href="https://www.github.com/nishittated/nishittated/">Github</a>
+* <a href="https://www.facebook.com/nishit.tated/">Facebook</a>
+
+# Contributing to MMT Case Study
+* All pull requests are welcome, make sure to follow the <a href="https://github.com/nishittated/MMT-Case-Study/blob/master/CONTRIBUTING.md">contribution guidelines </a>when you submit pull request.
