@@ -12,7 +12,7 @@ Download from here: https://github.com/nishittated/MMT-Case-Study
 
 # Support or Contact - Let's become friend
 * <a href="https://www.instagram.com/nishit.tated/">Instagram</a>
-* <a href="https://www.github.com/nishittated/nishittated/">Github</a>
+* <a href="https://www.github.com/nishittated/">Github</a>
 * <a href="https://www.facebook.com/nishit.tated/">Facebook</a>
 
 # Contributing to MMT Case Study
